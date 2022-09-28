@@ -1,0 +1,21 @@
+body{
+    background-color: #252525;
+    color: blanchedalmond;
+
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card{
+    width: 150px;
+    height: 200px;
+    background-color: #333;
+    border-radius: 10px;
+    outline: 1px solid
+    rgba(225, 225, 225, .5);
+    outline-offset: -8px;
+    position: relative;
+    
+}
